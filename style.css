@@ -1,0 +1,36 @@
+/* Home page */
+#registration
+{
+    text-align: center;
+    padding: 50px;
+}
+#login
+{
+    text-align: center;
+    padding: 50px;
+}
+
+/* Login Page */
+#back img:hover
+{
+    width: 70px;
+    height: 70px;
+    transition: 0.9s;
+}
+#main
+{
+    text-align: center;
+    margin-top: 50px;
+}
+
+/* Registration Page */
+#main_div #tab
+{
+    height: 900px;
+}
+#back_reg img:hover
+{
+    width: 70px;
+    height: 70px;
+    transition: 0.9s;
+}
